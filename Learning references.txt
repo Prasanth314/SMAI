@@ -1,0 +1,8 @@
+https://www.analyzemath.com/statistics/linear_regression.html
+https://www.youtube.com/watch?v=ry9cgNx1QV8	Lagrange multiplier
+https://youtu.be/FgakZw6K1QQ	PCA
+https://www.youtube.com/watch?v=TS_9u_NAc24	PCA
+https://www.youtube.com/watch?v=XzSlEA4ck2I	Naive Bayes
+http://cse.iitkgp.ac.in/~saptarshi/courses/ml2020s/ML-12-SVM.pdf	SVM
+https://axon.cs.byu.edu/Dan/678/miscellaneous/SVM.example.pdf	SVM
+https://training.galaxyproject.org/training-material/topics/statistics/tutorials/CNN/tutorial.html	CNN
