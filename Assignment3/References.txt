@@ -1,0 +1,13 @@
+1st Question
+https://towardsdatascience.com/introduction-to-deep-learning-with-keras-17c09e4f0eb2
+https://medium.com/analytics-vidhya/introduction-to-tensorflow-with-keras-api-36cbeeb562d5
+
+2nd Question
+Fully connected
+https://www.geeksforgeeks.org/implementing-an-autoencoder-in-pytorch/ 		
+Fully Convolutional
+https://github.com/udacity/deep-learning-v2-pytorch/blob/master/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Solution.ipynb
+https://www.kaggle.com/code/ljlbarbosa/convolution-autoencoder-pytorch/notebook
+https://medium.com/dataseries/convolutional-autoencoder-in-pytorch-on-mnist-dataset-d65145c132ac
+Connected + Convolutional
+https://towardsdatascience.com/three-ways-to-build-a-neural-network-in-pytorch-8cea49f9a61a
